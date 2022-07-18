@@ -1,5 +1,7 @@
 Official site:
 https://fluffychat.im/
+Official demo:
+https://fluffychat.im/web/
 
 # Feature:
 # Open. Nonprofit. Cute.Original author
